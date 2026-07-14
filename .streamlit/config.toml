@@ -1,0 +1,5 @@
+[theme]
+base = 'light'
+font = 'Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap'
+headingFont = 'Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap'
+baseFontSize = 15

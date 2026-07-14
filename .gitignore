@@ -1,0 +1,8 @@
+INSTRUCTIONS.md
+data/*.db
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.codex
+.agents
